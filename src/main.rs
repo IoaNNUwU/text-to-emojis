@@ -2,7 +2,7 @@
 
 use std::collections::HashMap;
 use std::fs::File;
-use std::io::{BufReader, BufWriter, Write};
+use std::io::{BufReader, BufWriter};
 use std::ops::Deref;
 use std::path::Path;
 
